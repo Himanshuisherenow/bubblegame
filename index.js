@@ -1,7 +1,7 @@
 
 
 
-var time = 6;
+var time = 60;
 var scoreIs = 0;
 var hitrn  ;
 let timex = document.querySelector("#timeval")
